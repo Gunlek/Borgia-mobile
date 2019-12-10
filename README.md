@@ -10,3 +10,8 @@ Currently available as a fork of the official Borgia repo:
 
 Link to original Borgia repo:
 [Original Borgia repo](https://github.com/borgia-app/Borgia)
+
+## Ressources
+* [Flutter website](https://flutter.dev)
+* [Flutter documentation](https://flutter.dev/docs)
+* [Flutter Widget index](https://flutter.dev/docs/reference/widgets)
